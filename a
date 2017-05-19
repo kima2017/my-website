@@ -1,0 +1,60 @@
+!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Our first task</title>
+        <style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: orange;
+    background-color: gainsboro;
+    clear: left;
+    text-align: left;
+    image-orientation: left;
+    overflow:hidden;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    image-orientation: center;
+    padding: 3px
+}
+
+table, th {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<header>
+<img src="logo.png" style="width:150px;height:80px;">
+<img src="Home.png" style="width:160px;height:110px;">
+<img src="About.png" style="width:160px;height:110px;">
+<img src="Blog.png" style="width:160px;height:110px;">
+<img src="Service.png" style="width:160px;height:110px;">
+
+</header>
+  
+<nav>
+  <img src="slider_BG.jpg" style="width:1103px;height:300px;">
+</nav>
+<footer>
+<table style="width:100%">
+  <tr>
+    <th>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</th>
+    <th>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium </th> 
+  </tr>
+</footer>
+</body>
+</html>
